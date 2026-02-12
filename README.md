@@ -38,7 +38,7 @@
 
 ## Dataset
 
-- Source: Kaggle (Sales Forecasting dataset) 
+- Source: Kaggle (Superstore Sales Dataset) 
 
 - Period: __2015–2018__
 

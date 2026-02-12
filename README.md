@@ -164,8 +164,6 @@ Several months consistently show stronger sales:
 
   - business scaling effects
 
-Insert charts here: Monthly sales lines by year, seasonality heatmap, YoY table.
-
 ### 2) Product & Category Performance
 ### Category-Level
 
@@ -218,8 +216,6 @@ This pattern signals risk:
 - these sub-categories may lose importance as drivers
 
 - they require deeper follow-up (pricing, competitiveness, lifecycle effects)
-
-Insert charts here: Sales by category, Pareto bar, category trends by year, sub-category trend lines with Machines/Tables highlighted.
 
 ### 3) Customer Analysis (Segment + Revenue Concentration)
 ### Customer Segments
@@ -275,8 +271,6 @@ Machines have lower purchase frequency in a 4-year window—likely due to longer
 - budget machine lines for mass replacement
 
 - premium machine lines for high-requirement corporate buyers
-
-Insert charts here: Segment x Category x Customer-class sub-category distributions.
 
 ### 4) Geographic Analysis (Region → State → City)
 ### Regions
@@ -344,8 +338,6 @@ Notable imbalances:
 ### Overall interpretation
 These category skews are more consistent with __assortment imbalance__ than absence of demand. Customers allocate spending toward available categories; the global mix remains balanced. This suggests growth potential via assortment expansion in specific markets.
 
-Insert charts here: Region-category stack, dominant states stack, city-category bars per region.
-
 ### 5) Logistics Analysis (Ship Mode + Delivery Time)
 ### Delivery Time
 
@@ -379,7 +371,6 @@ Shipping mode strongly impacts delivery time:
 
 - Technology uses faster shipping slightly more often, but without strong dominance.
 
-Insert charts here: delivery boxplots, region-ship heatmap, shipmode revenue bars, segment/category by shipmode.
 
 ## Final Recommendations
 
@@ -405,4 +396,4 @@ Where one category dominates >50%, investigate whether other categories are unde
 Run targeted February campaigns: bundles, discounts on consumables, and loyalty incentives.
 
 
-Code adapted from "General Analysis in Russian" by "Глеб Мехряков"
+Code adapted from "General Analysis in Russian" (Kaggle) by "Глеб Мехряков"
